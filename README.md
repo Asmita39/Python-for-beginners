@@ -1,3 +1,5 @@
 # Python-for-beginners
 
-This repository contains python notebooks that I created while completing Python for beginners course on Udemy.
+This repository contains python notebooks that I created while completing different Python courses on Udemy.
+
+1. 
